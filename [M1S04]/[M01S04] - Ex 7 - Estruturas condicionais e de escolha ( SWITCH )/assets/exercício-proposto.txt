@@ -1,0 +1,6 @@
+Readme
+
+Utilizando JavaScript:
+
+1-Utilize a estrutura switch para exibir uma mensagem 
+diferente com base na cor selecionada a partir do array cores.

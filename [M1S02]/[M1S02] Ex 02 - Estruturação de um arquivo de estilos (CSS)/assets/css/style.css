@@ -1,0 +1,15 @@
+h1{
+    color:blue;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(20, 219, 219);
+}
+p{
+    font-size: 16px;
+    border: solid 1px blue;
+    
+}
+.titulo{
+    font-family: monospace;
+}

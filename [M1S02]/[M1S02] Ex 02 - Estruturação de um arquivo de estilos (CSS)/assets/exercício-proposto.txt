@@ -1,0 +1,20 @@
+Readme
+
+1-Crie uma folha de estilo externa e vincule-a ao seu
+arquivo HTML criado no exercício 1. 
+
+2-Altere a cor do título em seu documento HTML, através 
+da tag title, usando a propriedade color.
+
+3-Defina uma cor de fundo para o corpo do seu documento 
+HTML usando a propriedade background-color.
+
+4-Diferencie o tamanho da fonte do título e dos parágrafos,
+utilizando a propriedade font-size.
+
+5-Aplique uma borda ao redor do parágrafo <p> usando a 
+propriedade border.
+
+6-Crie uma classe CSS e aplique-a ao elemento title para
+alterar seu estilo.Essa classe deverá ter o nome de 
+'.titulo'.

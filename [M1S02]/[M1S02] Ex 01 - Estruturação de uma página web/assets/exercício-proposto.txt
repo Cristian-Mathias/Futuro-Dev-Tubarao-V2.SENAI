@@ -1,0 +1,12 @@
+Readme
+
+1-Crie um arquivo HTML básico com a estrutura básica,
+incluindo tags <html>,<head> e <body>.
+
+2-Adicione um título à sua página usando a tag <title> 
+dentro do elemento <head>
+
+3-Insira um título principal na página usando a tag <h1>
+dentro do elemento <body>.
+
+4-Inclua um parágrafo <p> com algum texto de sua escolha.

@@ -1,0 +1,37 @@
+Readme
+
+-Ao longo desses exercícios, construiremos uma tela de 
+listagem de produtos na qual poderemos pesquisar os 
+itens e veremos suas imagens juntamente com algumas 
+informações adicionais.
+
+-Neste primeiro exercício vamos focar em criar a 
+estruturada nossa página web.
+
+-Utilizando os conceitos do HTML semântico e suas tags, 
+crie uma página que contenha:
+
+*Um cabeçalho;
+*Conteúdo principal;
+*Rodapé;
+‌
+
+Recomendação: Crie um repositório para esses exercícios e a 
+cada item concluído, realize o commit e o push das alterações;
+
+Cabeçalho.
+-Coloque um logo, à sua escolha, no canto esquerdo;
+-O nome do usuário logado, pode deixar seu nome como padrão, à direita;
+
+Corpo Principal.
+-Criar a estrutura com a tag semântica correspondente; 
+(no primeiro momento ele ficará vazio, apenas com a tag semantica criada).
+
+
+Rodapé.
+-O rodapé deverá conter os links: Ajuda, Termos de Uso, Política de Privacidade 
+e Mapa do Site (esses links não terão ação a principio).
+
+
+
+

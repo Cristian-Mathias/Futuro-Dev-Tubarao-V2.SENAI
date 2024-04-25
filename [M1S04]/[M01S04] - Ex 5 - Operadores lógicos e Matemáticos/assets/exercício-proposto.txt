@@ -1,0 +1,12 @@
+Readme
+
+Utilizando JavaScript:
+
+1-Crie uma variável chamada numero1 e atribua a ela um número.
+2-Crie uma variável chamada numero2 e atribua a ela outro número.
+3-Use operadores matemáticos para calcular a soma, subtração, 
+multiplicação e divisão entre numero1 e numero2.
+4-Crie uma variável chamada ehMaior e atribua a ela um valor 
+booleano indicando se numero1 é maior que numero2.
+5-Crie uma variável chamada ehPar e atribua a ela um valor 
+booleano indicando se numero1 é par.

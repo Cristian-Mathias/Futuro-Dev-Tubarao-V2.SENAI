@@ -1,0 +1,6 @@
+Readme
+
+Utilizando JavaScript:
+
+1-Mostre em um terminal os valores das propriedades do objeto Pessoa
+Dica: Utilize console.log( )

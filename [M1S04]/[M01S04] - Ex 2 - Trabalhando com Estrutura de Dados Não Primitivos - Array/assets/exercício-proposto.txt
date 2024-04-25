@@ -1,0 +1,4 @@
+Readme
+
+1-Crie um array chamado cores contendo 
+três cores diferentes como strings.

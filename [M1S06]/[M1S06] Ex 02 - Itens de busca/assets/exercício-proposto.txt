@@ -1,0 +1,21 @@
+Readme
+
+-Neste segundo exercício vamos criar os elementos que 
+será apresentados na parte principal da página.
+
+-A parte principal será composta por:
+
+*Área de pesquisa
+*Card referente ao produto listado;
+
+-Recomendação: Crie um repositório para esses exercícios 
+e a cada item concluído, realize o commit e o push das alterações;
+
+-Incluir um input de texto para receber a pesquisa a ser 
+digitada pelo usuário.
+
+-Incluir um botão com o texto: 'Pesquisar'.
+
+-Este card deverá conter uma imagem do produto centralizada.
+
+-Abaixo da imagem, será apresentado o nome do produto.

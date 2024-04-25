@@ -1,0 +1,36 @@
+Readme
+
+Utilizando JavaScript:
+
+Você recebeu um array de números inteiros positivos. 
+Sua tarefa é escrever uma função em JavaScript que encontre 
+o par de números no array que soma um valor específico. 
+Se um par for encontrado, a função deve retornar os índices 
+desses dois números no array. Se nenhum par for encontrado, 
+a função deve retornar uma mensagem indicando que nenhum par 
+foi encontrado.
+
+Por exemplo, dado o array [2, 7, 11, 15] e o valor alvo 9, a 
+função deve retornar [0, 1], pois 2 + 7 = 9.
+
+Aqui está um esboço da função:
+
+function encontrarParParaSoma(array, alvo) {
+    // Implemente sua lógica aqui
+}
+
+// Exemplo de uso:
+const array = [2, 7, 11, 15];
+const alvo = 9;
+console.log(encontrarParParaSoma(array, alvo)); // Deverá exibir [0, 1]
+
+DICA: --- Ideal lógico sugerido pelo professor ---
+
+1-Percorrer o array e verificar se cada número no array tem um par que 
+soma o valor alvo.
+2-Pode-se usar um loop duplo para comparar todos os pares de números 
+no array.
+3-Se um par que soma o valor alvo for encontrado, a função deve retornar 
+os índices desses dois números.
+4-Se nenhum par for encontrado, a função deve retornar uma mensagem 
+indicando que nenhum par foi encontrado.

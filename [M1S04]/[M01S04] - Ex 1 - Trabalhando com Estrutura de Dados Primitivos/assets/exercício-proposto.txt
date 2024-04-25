@@ -1,0 +1,11 @@
+Readme
+
+
+1-Declare uma variável chamada nome e atribua a 
+ela uma string com seu nome.
+
+2-Declare uma variável chamada idade e atribua a ela 
+um número representando sua idade.
+
+3-Declare uma variável chamada isAluno e atribua a 
+ela um valor booleano indicando se você é um aluno ou não.

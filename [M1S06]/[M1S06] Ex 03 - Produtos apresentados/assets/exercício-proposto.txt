@@ -1,0 +1,17 @@
+Readme
+
+-Neste exercício vamos criar a estrutura de listagem dos nossos produtos;
+
+-Cada produto deverá aparecer em seu respectivo card com sua foto e seu 
+nome.
+
+-Quando um card for selecionado (click), deverá ser apresentado para o 
+usuário as informações adicionais daquele produto.
+
+-A seleção dos produtos apresentados fica a seu critério, podendo ser 
+produtos alimentícios, de limpeza, tecnológicos, etc (bem com suas informações adicionais).
+
+-Dica: Crie uma lista (array) com os produtos que deseja exibir
+
+-Recomendação: Crie um repositório para esses exercícios e a cada item 
+concluído, realize o commit e o push das alterações;

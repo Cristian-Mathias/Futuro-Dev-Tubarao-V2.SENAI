@@ -1,0 +1,4 @@
+Readme
+
+1-Declare um objeto chamado pessoa com as propriedades nome, 
+idade e isAluno, usando as variáveis que você declarou anteriormente.

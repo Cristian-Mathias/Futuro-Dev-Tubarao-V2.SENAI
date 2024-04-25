@@ -1,0 +1,10 @@
+Readme
+
+Utilizando JavaScript:
+
+1-Crie uma estrutura condicional que verifica se 
+numero1 é maior que numero2 e exiba uma mensagem 
+indicando qual é o maior número.
+
+2-Utilizando if-else, verifique se numero1 é par 
+ou ímpar e exiba uma mensagem correspondente.
