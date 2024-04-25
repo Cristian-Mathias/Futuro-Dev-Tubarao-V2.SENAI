@@ -1,0 +1,11 @@
+Readme
+
+Criando elementos dinamicamente
+
+Insira no html do exercício anterior um botão "Adicionar Item". 
+Cada vez que o botão for clicado, um novo item (<li>) deverá ser 
+adicionado a uma lista (<ul>) existente na página. O conteúdo de 
+cada novo item deve ser "Item X", onde X é o número do item na lista. 
+Por exemplo, se temos 3 itens na lista: (item 1, item 2, item 3), ao 
+clicar no botão, um novo elemento <li> será adicionado com 
+o valor “Item 4”.

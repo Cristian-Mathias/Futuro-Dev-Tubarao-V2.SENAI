@@ -1,0 +1,6 @@
+Mini projeto - Atualização da lista a cada segundo.
+
+-Implemente a função que limpa toda a lista de interesses quando o 
+botão "Limpar Lista" for clicado. Utilize a função 
+localstorage.removeItem([nome-da-chave]) e não se esqueça de 
+atualizar a lista no DOM para refletir essa mudança.

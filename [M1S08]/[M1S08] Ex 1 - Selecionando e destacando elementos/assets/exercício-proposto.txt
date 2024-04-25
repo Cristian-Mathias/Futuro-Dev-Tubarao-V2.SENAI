@@ -1,0 +1,7 @@
+Readme
+
+Selecionando e destacando elementos
+
+Crie uma página HTML com uma lista de itens (<ul> com vários <li>). 
+Use JavaScript para selecionar o terceiro item da lista e altere a 
+cor de fundo dele para Amarelo.

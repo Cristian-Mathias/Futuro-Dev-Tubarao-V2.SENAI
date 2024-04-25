@@ -1,0 +1,8 @@
+Readme
+
+Formulários e eventos de teclado
+
+Crie uma página com um campo de entrada de texto (<input type="text">) 
+e um parágrafo vazio abaixo dele. Conforme o usuário digita no campo de entrada, 
+o texto digitado deve ser imediatamente refletido e exibido no parágrafo abaixo, 
+mas com todas as letras convertidas para maiúsculas.

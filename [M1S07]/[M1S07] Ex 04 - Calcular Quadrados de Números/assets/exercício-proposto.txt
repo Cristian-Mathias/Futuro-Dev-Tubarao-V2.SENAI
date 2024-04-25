@@ -1,0 +1,7 @@
+Readme
+
+Calcular Quadrados de Números
+
+1-Suponha que você tenha uma lista de números e deseje 
+calcular o quadrado de cada número. Utilize o método map() 
+para criar uma nova lista contendo os quadrados dos números.

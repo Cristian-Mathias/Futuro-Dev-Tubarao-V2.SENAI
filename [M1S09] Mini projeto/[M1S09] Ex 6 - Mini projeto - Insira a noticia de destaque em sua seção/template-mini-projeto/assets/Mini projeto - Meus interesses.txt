@@ -1,0 +1,10 @@
+Mini projeto - Insira a noticia de destaque em sua seção. 
+
+
+-Após recuperar a primeira notícia do dia da lista, adicione o 
+título da notícia na sua seção. Verifique a classe do elemento, 
+recupere e insira a informação dentro do mesmo. exemplo de acesso a 
+informação: reposta.items[0].titulo
+
+-Caso você tenha optado por utilizar o template, a classe do elemento 
+se chama .title-news-today.

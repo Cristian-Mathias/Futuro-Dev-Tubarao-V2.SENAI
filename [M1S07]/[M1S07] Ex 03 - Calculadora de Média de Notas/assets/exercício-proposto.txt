@@ -1,0 +1,7 @@
+Readme
+
+1-Suponha que você tenha um array contendo as notas dos 
+alunos em uma determinada disciplina. Você precisa calcular 
+a média dessas notas. Utilize o método forEach() para percorrer 
+o array e calcular a média das notas. Escreva o código dentro 
+de uma função!

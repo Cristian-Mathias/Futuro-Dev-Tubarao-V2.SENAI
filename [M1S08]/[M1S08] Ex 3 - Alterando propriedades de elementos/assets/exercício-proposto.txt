@@ -1,0 +1,24 @@
+Readme
+
+Alterando propriedades de elementos
+
+Descrição: Crie uma página com um parágrafo de texto e um botão "Alternar Tema". 
+Quando o botão for clicado, o fundo da página deve alternar entre branco e preto, 
+e a cor do texto deve alternar entre preto e branco, respectivamente.
+
+
+obs No código a baixo, tinha que clicar duas vezes para chamar um evento. 
+
+/* document.querySelector('#alternarTema').addEventListener('click', mudarTema);
+
+function mudarTema() {
+    let body = document.body;
+
+    if (body.style.backgroundColor === 'white') {
+        body.style.backgroundColor = 'black';
+        body.style.color = 'white';
+    } else {
+        body.style.backgroundColor = 'white';
+        body.style.color = 'black';
+    }
+}; */

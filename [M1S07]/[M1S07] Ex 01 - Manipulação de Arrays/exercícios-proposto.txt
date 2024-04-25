@@ -1,0 +1,7 @@
+Readme
+
+Manipulação de Arrays
+
+1-Crie um array chamado numeros contendo os números de 1 a 10.
+2-Crie outro array chamado frutas contendo três frutas de sua escolha.
+3-Imprima os arrays numeros e frutas no console.

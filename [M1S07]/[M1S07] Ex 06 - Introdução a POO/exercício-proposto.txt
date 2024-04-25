@@ -1,0 +1,9 @@
+Readme
+
+Introdução a POO
+
+1-Crie uma classe Carro com as propriedades marca, modelo e ano.
+2-Crie um método na classe Carro chamado info() que exibe as 
+informações do carro no formato "Marca: XXX, Modelo: XXX, Ano: XXX".
+3-Crie duas instâncias da classe Carro com diferentes informações e 
+chame o método info() para cada uma delas.

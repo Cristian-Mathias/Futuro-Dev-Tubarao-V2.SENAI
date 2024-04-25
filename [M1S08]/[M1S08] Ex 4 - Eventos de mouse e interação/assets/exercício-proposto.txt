@@ -1,0 +1,9 @@
+Readme
+
+Eventos de mouse e interação
+
+Descrição: 
+-Crie uma página com uma imagem. 
+-Quando o usuário passar o mouse sobre a imagem, 
+ ela deve aumentar de tamanho (use transformação de escala CSS). 
+-Quando o mouse sair da imagem, ela deve voltar ao tamanho original.

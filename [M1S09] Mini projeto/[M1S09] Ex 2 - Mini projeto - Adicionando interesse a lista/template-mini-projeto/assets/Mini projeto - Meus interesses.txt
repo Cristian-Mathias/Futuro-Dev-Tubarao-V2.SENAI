@@ -1,0 +1,13 @@
+Mini projeto - Adicionando interesse a lista
+
+Adicione um evento de clique ao botão "Adicionar" e recupere 
+o valor digitado no input. Em seguida, recupere a lista existente 
+e adicione o novo valor a ela. Lembre-se de persistir os dados 
+atualizados no localStorage.
+
+‌Passo a Passo
+
+1-Adicione um evento de clique ao botão;
+2-Recupere o valor digitado no input;
+3-Recupere a lista do localstorage e adicione esse novo item a ela;
+4-[BONUS] - Ao finalizar a adição limpe os dados do input.

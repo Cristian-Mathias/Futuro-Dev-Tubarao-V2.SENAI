@@ -1,0 +1,17 @@
+Readme
+
+-Iteração com Loops
+
+Considere um array numeros com uma sequência númerica.
+
+1-Adicione mais um número ao final do array numeros utilizando o 
+método push() e imprima o novo array no console.
+
+2-Remova o último número do array numeros utilizando o método pop() 
+e imprima o novo array no console.
+
+3-Adicione uma nova fruta no início do array frutas utilizando o método 
+unshift() e imprima o novo array no console.
+
+4-Remova a primeira fruta do array frutas utilizando o método shift() e 
+imprima o novo array no console.

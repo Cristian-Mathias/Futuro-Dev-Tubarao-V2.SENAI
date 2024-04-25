@@ -1,0 +1,20 @@
+Mini projeto - Atualização da lista a cada segundo.
+
+-Faça uma requisição para a API do IBGE de notícias utilizando o método 
+fetch(). 
+-Após recuperar os dados, converta o resultado para JSON e obtenha o 
+primeiro item da lista na propriedade items. A URL que você deve 
+utilizar é: 
+           servicodados.ibge.gov.br/api/v3/noticias/?tipo=release.
+
+Estrutura esperada pela API:
+
+Não se preocupe com as demais informações. Acesse apenas os itens e 
+obtenha a primeira informação contida no array. A informação relevante 
+é o título dessa notícia.
+
+
+1-Faça uma requisição utilizando o fetch()
+2-Utilize a função de callback para converter o json
+3-Ao receber a resposta da requisição, pegue o **primeiro elemento** 
+da propriedade "items".
